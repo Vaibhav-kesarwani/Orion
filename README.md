@@ -3,7 +3,15 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 
 
-![transparent_logo](https://github.com/user-attachments/assets/4fc1e2af-7850-40d7-b2fd-66dbb859f338)
+<!--![transparent_logo](https://github.com/user-attachments/assets/4fc1e2af-7850-40d7-b2fd-66dbb859f338)-->
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4fc1e2af-7850-40d7-b2fd-66dbb859f338" 
+       alt="transparent_logo" 
+       width="500" 
+       height="500">
+</p>
+
 
 # Description
 
