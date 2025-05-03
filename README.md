@@ -22,17 +22,17 @@ Say "Help" or "Tell me your features" and Orion will say all of its capabilities
 
 # Installation
 
-1. Clone the Repository
+## 1. Clone the Repository
 ```bash
 git clone https://github.com/Vaibhav-kesarwani/Orion-AI.git
 ```
 
-2. Open the Project Directory
+## 2. Open the Project Directory
 ```bash
 cd Orion-AI
 ```
 
-3. Create and Activate Virtual Environment
+## 3. Create and Activate Virtual Environment
 #### macOS/Linux:
 ```bash
 python3 -m venv .venv
@@ -45,12 +45,12 @@ python -m venv .venv
 .venv\Scripts\activate
 ```
 
-4. Install the Required Python Modules
+## 4. Install the Required Python Modules
 ```bash
 pip install -r requirements.txt
 ```
 
-5. Run the Script
+## 5. Run the Script
 ```bash
 python orion.py
 ```
