@@ -2,7 +2,8 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 
-![image](https://user-images.githubusercontent.com/11313549/83199718-64016700-a15f-11ea-8d7e-9b04280841f9.png)
+
+![transparent_logo](https://github.com/user-attachments/assets/4fc1e2af-7850-40d7-b2fd-66dbb859f338)
 
 # Description
 
