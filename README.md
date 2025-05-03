@@ -32,12 +32,25 @@ git clone https://github.com/Vaibhav-kesarwani/Orion-AI.git
 cd Orion-AI
 ```
 
-3. Install the Required Python Modules
+3. Create and Activate Virtual Environment
+#### macOS/Linux:
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+```
+
+#### Windows:
+```bash
+python -m venv .venv
+.venv\Scripts\activate
+```
+
+4. Install the Required Python Modules
 ```bash
 pip install -r requirements.txt
 ```
 
-4. Run the Script
+5. Run the Script
 ```bash
 python orion.py
 ```
