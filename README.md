@@ -15,33 +15,36 @@
 
 # Description
 
-This is the Jarvis AI Project made in Python3. It is a virtual assistant and has a variety of features it can carry out.
+This is the Orion AI Project made in Python3. It is a virtual assistant and has a variety of features it can carry out.
 
-Say "Help" or "Tell me your features" and Jarvis will say all of its capabilities.
+Say "Help" or "Tell me your features" and Orion will say all of its capabilities.
 
 
 # Installation
 
 1. Clone the Repository
-
-        git clone https://github.com/praveenkumarsrivas/Jarvis-AI-using-python3-.git
+```bash
+git clone https://github.com/Vaibhav-kesarwani/Orion-AI.git
+```
 
 2. Open the Project Directory
-
-        cd Jarvis-AI-using-python3-
+```bash
+cd Orion-AI
+```
 
 3. Install the Required Python Modules
-
-        pip install -r requirements.txt
+```bash
+pip install -r requirements.txt
+```
 
 4. Run the Script
-
-        python jarvis.py
-
+```bash
+python orion.py
+```
 
 # How To Use
 
-Once Jarvis is in its listening state, you can say what you want it to do by speaking.
+Once Orion is in its listening state, you can say what you want it to do by speaking.
 
 ## This AI can:
 
@@ -59,10 +62,6 @@ Once Jarvis is in its listening state, you can say what you want it to do by spe
 
 And many more features to come...
 
-## Examples
-
-![image](https://user-images.githubusercontent.com/11313549/83199419-c312ac00-a15e-11ea-865c-54bfebae78bb.png)
-
 ## Commands
 
 ### Date & Time
@@ -71,65 +70,24 @@ And many more features to come...
 *What is the current date?*
 
 
-### About Jarvis
+### About Orion
 
-*Who are you?*  
-*Tell me about yourself*  
-*Tell me about your developer*
+1. **Who are you?**
+2. **Tell me about yourself  **
+3. **Tell me about your developer**
 
 
 ### Search Capabilities
 
-*Check Wikipedia for Marvel*  
-*What is the infinity gauntlet?*  
-*Who is Iron Man?*  
-*Search on google for comic stores near me*  
-*Open the website youtube.com*
+1. **Check Wikipedia for Marvel  **
+2. **What is the infinity gauntlet?  **
+3. **Who is Iron Man?  **
+4. **Search on google for comic stores near me  **
+5. **Open the website youtube.com**
 
-
-### Email
- 
-*Send email to my boss*
-
-
-### System
-
-*What is the current CPU and battery?*  
-*Logout of my account*  
-*Restart my computer*  
-*Shut down my computer*
-
-
-### Music
- 
-*Play songs*
-
-
-### Reminder List
-
-*Create a reminder list*  
-*Reminder: buy eggs*
-
-
-### Screenshot
- 
-*Take a screenshot*
-
-
-### Jokes
-
-*Tell me a joke*
-
-
-### Voice 
-
-*Change voice to male voice*
-
-
-### Shutdown Jarvis
-
+### Shutdown Orion
 *I am done*  
-*Bye bye Jarvis*
+*Bye bye Orion*
 
 
 # If you like it leave a Star 🌟 on this Repo
