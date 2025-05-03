@@ -86,8 +86,8 @@ And many more features to come...
 5. **Open the website youtube.com**
 
 ### Shutdown Orion
-*I am done*  
-*Bye bye Orion*
+1. **I am done**
+2. **Bye bye Orion**
 
 
-**If you like it leave a Star 🌟 on this Repo**
+### **If you like it leave a Star 🌟 on this Repo**
