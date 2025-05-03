@@ -90,4 +90,4 @@ And many more features to come...
 *Bye bye Orion*
 
 
-# If you like it leave a Star 🌟 on this Repo
+**If you like it leave a Star 🌟 on this Repo**
